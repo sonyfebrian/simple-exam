@@ -4,7 +4,7 @@ Session::checkLogin();
 ?>
 <div class="main">
 <h1>Online Exam System - User Login</h1>
-	<div class="segment" >
+	<div class="segment" style="margin-right:30px;">
 		<img src="img/test.png"/>
 	</div>
 	<div class="segment">

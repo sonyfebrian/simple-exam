@@ -1,7 +1,7 @@
 <?php include 'inc/header.php'; ?>
 <div class="main">
 <h1>Online Exam System - User Registration</h1>
-	<div class="segment" style="margin-right:30px;">
+	<div class="segment">
 		<img src="img/regi.png"/>
 	</div>
 	<div class="segment">
